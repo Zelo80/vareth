@@ -7,4 +7,4 @@ Description:
 A world of ancient mysteries, powerful magic, and shifting landscapes.
 
 When:[[]],
-Where:[[]],
+Where:[[Locations/Regions within Ordan/Lunareth Land/City of Veyl'thir\|City of Veyl'thir]],
