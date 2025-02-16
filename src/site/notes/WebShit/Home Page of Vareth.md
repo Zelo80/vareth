@@ -6,6 +6,8 @@
 
 **Table of Contents**
 
+[[WebShit/Where you start\|Where you start]]
+
 [[Rules/Rules\|Rules]]
 [[WebShit/Religious beings\|Religious beings]]
 [[WebShit/Factions\|Factions]]

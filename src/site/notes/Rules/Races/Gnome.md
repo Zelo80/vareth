@@ -3,7 +3,7 @@
 ---
 
 #Holders
-![Players_Handbook_5e_-_Gnome_-_Rob_Rey_-_p35.webp](/img/user/Players_Handbook_5e_-_Gnome_-_Rob_Rey_-_p35.webp)
+![Players_Handbook_5e_-_Gnome_-_Rob_Rey_-_p35.webp](/img/user/Images/Players_Handbook_5e_-_Gnome_-_Rob_Rey_-_p35.webp)
 ### **The Gnomes of Ordan**
 
 The **Gnomes of Ordan**, known as the **Nyveri**, are a **mystical and elusive race**, renowned for their **unpredictable magic, ingenuity, and deep ties to the unseen forces of the world**. Unlike other mortal races, the **Nyveri do not see the world as fixed**, but as something that can be **reshaped, bent, and rewritten** through both invention and arcane manipulation.

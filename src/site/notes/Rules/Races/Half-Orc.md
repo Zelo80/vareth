@@ -3,7 +3,7 @@
 ---
 
 #Holders
-![Half-orc-5e.webp](/img/user/Half-orc-5e.webp)
+![Half-orc-5e.webp](/img/user/Images/Half-orc-5e.webp)
 ### **The Half-Orcs of Ordan**
 
 The **Half-Orcs of Ordan**, known as the **Gur'vari**, are a people of **endurance, survival, and unyielding will**. Born of both **orc and human blood**, they exist in a world where neither fully claims them, yet they carve out their own **place through strength, resilience, and cunning**. Some embrace **their orcish heritage**, others **integrate into human societies**, while many choose to **forge their own path, free from the constraints of both races**.
