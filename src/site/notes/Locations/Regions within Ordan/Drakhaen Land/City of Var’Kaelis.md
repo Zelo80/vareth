@@ -55,4 +55,4 @@ Var’Kaelis, the formidable capital of **Drakhaen**, is a city of **obsidian to
 - **The Echo of the Storm** – Some say the **Shattered Expanse still whispers** with the voices of fallen warriors, and that those who train there too long **begin to see shadows of past battles**.
 
 When:[[]],
-Where:[[Neutral Factions/Kingdom of Drakhaen/Kingdom of Drakhaen\|Kingdom of Drakhaen]],
+Where:[[Neutral Factions/Kingdom of Drakhaen/Kingdom of Drakhaen\|Kingdom of Drakhaen]], [[Locations/Regions within Ordan/The Emberwilds\|The Emberwilds]]

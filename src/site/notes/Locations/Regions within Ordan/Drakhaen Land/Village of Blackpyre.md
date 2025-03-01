@@ -8,4 +8,4 @@ Description:
 - **Description:** A village of **exiled war-mages and spellforgers**, experimenting with **unstable battle magic** and **forbidden war-spells**.
 
 When:[[]],
-Where:[[Neutral Factions/Kingdom of Drakhaen/Kingdom of Drakhaen\|Kingdom of Drakhaen]],
+Where:[[Neutral Factions/Kingdom of Drakhaen/Kingdom of Drakhaen\|Kingdom of Drakhaen]], [[Locations/Regions within Ordan/The Emberwilds\|The Emberwilds]]

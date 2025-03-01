@@ -8,4 +8,4 @@ Description:
 - **Description:** A **fortress-town** that serves as **Drakhaen’s primary war-foundry**, producing **weapons, enchanted armor, and siege constructs**.
 
 When:[[]],
-Where:[[Neutral Factions/Kingdom of Drakhaen/Kingdom of Drakhaen\|Kingdom of Drakhaen]],
+Where:[[Neutral Factions/Kingdom of Drakhaen/Kingdom of Drakhaen\|Kingdom of Drakhaen]], [[Locations/Regions within Ordan/The Emberwilds\|The Emberwilds]]

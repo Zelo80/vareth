@@ -18,3 +18,7 @@
 [[Locations/Regions within Ordan/Lunareth Land/Village of Lunebridge\|Village of Lunebridge]]
 [[Locations/Regions within Ordan/Lunareth Land/Village of Gildenspire\|Village of Gildenspire]]
 [[Locations/Regions within Ordan/Drakhaen Land/Village of Scorvhollow\|Village of Scorvhollow]]
+[[Locations/Regions within Ordan/Independent Land/Village of Brighthollow\|Village of Brighthollow]]
+[[Locations/Regions within Ordan/Independent Land/Village of Emberstead\|Village of Emberstead]]
+[[Locations/Regions within Ordan/Independent Land/Village of Greenwarren\|Village of Greenwarren]]
+[[Locations/Regions within Ordan/Independent Land/Village of Willowshade\|Village of Willowshade]]
