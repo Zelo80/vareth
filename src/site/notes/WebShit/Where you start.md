@@ -102,3 +102,6 @@ New powers emerge, political struggles deepen, and ancient threats stir beneath 
     - The moons still affect magic and prophecy, but some scholars believe their influence is changing.
     - A growing conflict between those who seek to **restore the gods** and those who wish to **erase them completely**.
     - New entities (mortals, celestial echoes, or something unknown) are **vying for divinity** in the void left behind.
+
+
+Why did you chose to leave your home to travel to Veyl'thir
