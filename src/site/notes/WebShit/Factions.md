@@ -25,3 +25,5 @@ Factions:
 [[Neutral Factions/The Tideborn Corsairs/The Tideborn Corsairs\|The Tideborn Corsairs]],
 [[Neutral Factions/The Tidebreaker quarries/The Tidebreaker Quarries\|The Tidebreaker Quarries]],
 [[Neutral Factions/The Verdant Arcanium/The Verdant Arcanuim\|The Verdant Arcanuim]]
+[[Neutral Factions/The Azure Fleet/The Azure Fleet\|The Azure Fleet]]
+[[Neutral Factions/The Silk and Silver Coalition/The Silk and Silver Coalition\|The Silk and Silver Coalition]]
