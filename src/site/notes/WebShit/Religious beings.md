@@ -4,7 +4,7 @@
 
 #Holders
 
-**Gods**
+**Known Gods**
 [[Neutral Factions/NPCS/Gods/Draethis, The Crimson Ember (Revenge)\|Draethis, The Crimson Ember (Revenge)]]
 [[Neutral Factions/NPCS/Gods/Zareth, The Hollow King (Former God of Selna)\|Zareth, The Hollow King (Former God of Selna)]]
 [[Neutral Factions/NPCS/Gods/Kaelor, The Crimson Omen (God of Korris)\|Kaelor, The Crimson Omen (God of Korris)]]
@@ -17,7 +17,7 @@
 [[Neutral Factions/NPCS/Gods/Vaelis, The Pale Keeper (Lost Souls)\|Vaelis, The Pale Keeper (Lost Souls)]]
 [[Neutral Factions/NPCS/Gods/Veythos, The Eternal Judge (God of Life and Death)\|Veythos, The Eternal Judge (God of Life and Death)]]
 
-**Demons**
+**Known Demons**
 [[Enemy Factions/NPCS/Demons/Zariel\|Zariel]]
 [[Enemy Factions/NPCS/Demons/Asmodeus\|Asmodeus]]
 [[Enemy Factions/NPCS/Demons/Baalzebul\|Baalzebul]]
