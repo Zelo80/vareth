@@ -9,6 +9,7 @@
 [[WebShit/Where you start\|Where you start]]
 
 [[Rules/Rules\|Rules]]
+[[WebShit/Documents\|Documents]]
 [[WebShit/Religious beings\|Religious beings]]
 [[WebShit/Factions\|Factions]]
 [[WebShit/Continents\|Continents]]

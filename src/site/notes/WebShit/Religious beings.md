@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/web-shit/religious-beings/"}
 ---
 
-#Holders
+#Holders 
 
 **Known Gods**
 [[Neutral Factions/NPCS/Gods/Draethis, The Crimson Ember (Revenge)\|Draethis, The Crimson Ember (Revenge)]]
