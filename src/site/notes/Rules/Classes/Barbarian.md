@@ -3,7 +3,7 @@
 ---
 
 #Holders
-Subclasses: [[Rules/Classes/Sub Classes/Path of the Beast\|Path of the Beast]], [[Rules/Classes/Sub Classes/Path of Wild Magic\|Path of Wild Magic]], [[Rules/Classes/Sub Classes/Path of Berserker\|Path of Berserker]], [[Rules/Classes/Sub Classes/Path of The Totem Warrior\|Path of The Totem Warrior]]
+Subclasses: [[Rules/Classes/Sub Classes/Path of the Beast\|Path of the Beast]], [[Rules/Classes/Sub Classes/Path of Wild Magic\|Path of Wild Magic]], [[Rules/Classes/Sub Classes/Path of Berserker\|Path of Berserker]], [[Rules/Classes/Sub Classes/Path of The Totem Warrior\|Path of The Totem Warrior]], [[Rules/Classes/Sub Classes/Path of the Storm Herald\|Path of the Storm Herald]]
 ![Pasted image 20250202210313.png](/img/user/Images/Pasted%20image%2020250202210313.png)
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
 
