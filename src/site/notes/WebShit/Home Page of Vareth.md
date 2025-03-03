@@ -11,6 +11,7 @@
 [[Rules/Rules\|Rules]]
 [[WebShit/Documents\|Documents]]
 [[WebShit/Religious beings\|Religious beings]]
+[[WebShit/Beastiary\|Beastiary]]
 [[WebShit/Factions\|Factions]]
 [[WebShit/Continents\|Continents]]
 [[WebShit/Regions-Planes\|Regions-Planes]]

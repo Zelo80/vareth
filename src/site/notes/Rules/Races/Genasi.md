@@ -73,3 +73,5 @@ The **Genasi of Ordan**, known as the **Elythari**, are beings of **elemental he
 - **The Slumbering Colossus:** Some say that beneath Ordan, an Earth Genasi **of impossible size sleeps**, waiting for the day when **the world needs its guardian once more**.
 - **The Endless Storm:** A hurricane that has lasted **since the Fall of the Gods**, with whispers that **an Air Genasi king still rules from within its eye**.
 - **The Drowned Kingdom:** A legend of an ancient Water Genasi civilization, said to have **sunk beneath the waves**, though some believe it was **never lost—only hidden**.
+
+Subraces: [[Rules/Races/SubRaces/Earth Genasi\|Earth Genasi]], [[Rules/Races/SubRaces/Air Genasi\|Air Genasi]], [[Rules/Races/SubRaces/Water Genasi\|Water Genasi]]
