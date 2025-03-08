@@ -31,3 +31,4 @@
 [[Creatures/Hostile/Frostpiercer Wolves\|Frostpiercer Wolves]]
 [[Creatures/Hostile/Gutterwings\|Gutterwings]]
 [[Creatures/Hostile/Bonepickers\|Bonepickers]]
+[[Creatures/Hostile/Ravenspikes\|Ravenspikes]]
