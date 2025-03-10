@@ -12,5 +12,3 @@ Race:[[]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
-
-DM NOTES:

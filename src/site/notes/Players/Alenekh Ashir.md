@@ -14,5 +14,3 @@ Race:[[Rules/Races/Warforged\|Warforged]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
-
-DM NOTES:

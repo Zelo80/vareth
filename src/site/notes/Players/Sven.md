@@ -12,5 +12,3 @@ Race:[[Rules/Races/Changeling\|Changeling]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
-
-DM NOTES:

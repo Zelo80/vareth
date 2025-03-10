@@ -14,5 +14,3 @@ Race:[[Rules/Races/SubRaces/Water Genasi\|Water Genasi]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
-
-DM NOTES:

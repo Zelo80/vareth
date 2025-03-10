@@ -14,5 +14,3 @@ Race:[[Rules/Races/Aasimar\|Aasimar]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
-
-DM NOTES:
