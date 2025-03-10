@@ -7,6 +7,7 @@
 **Table of Contents**
 
 [[WebShit/Where you start\|Where you start]]
+[[Friendly Factions/The Party\|The Party]]
 
 [[Rules/Rules\|Rules]]
 [[WebShit/Documents\|Documents]]
