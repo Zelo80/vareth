@@ -6,9 +6,11 @@
 Status: [[Rules/Living\|Living]]
 Description:
 
-Class:[[]],
+Played by Nick
+
+Class:[[Rules/Classes/Rogue\|Rogue]],
 SubClass:[[]],
-Race:[[]],
+Race:[[Rules/Races/Human\|Human]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
