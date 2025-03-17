@@ -14,3 +14,5 @@ Race:[[Rules/Races/Aasimar\|Aasimar]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Where:[[]],
 When:[[]],
+
+[[Players/Ramie DMS NOTES\|Ramie DMS NOTES]]
