@@ -5,9 +5,9 @@
 #enemy 
 Description:
 
-Where:[[]],
+Where:[[Locations/Celestial Bodies/The Hells\|The Hells]],
 When:[[]],
-Enemies:[[Neutral Factions/Gods/Gods\|Gods]],
+Enemies:[[Neutral Factions/Gods/Gods\|Gods]], [[Enemy Factions/Outer Gods\|Outer Gods]]
 Allies:[[]],
 
 

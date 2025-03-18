@@ -3,6 +3,19 @@
 ---
 
 #Holders
+Creatures
+[[Creatures/Hostile/Orcs\|Orcs]]
+[[Creatures/Hostile/Goblins\|Goblins]]
+[[Creatures/Hostile/Hobgoblins\|Hobgoblins]]
+[[Creatures/Hostile/Gnolls\|Gnolls]]
+[[Creatures/Hostile/Kobalds\|Kobalds]]
+[[Creatures/Hostile/Nymphs\|Nymphs]]
+[[Creatures/Hostile/Zombies\|Zombies]]
+[[Creatures/Hostile/Skeletons\|Skeletons]]
+[[Creatures/Hostile/Ghouls\|Ghouls]]
+[[Creatures/Hostile/Ghosts\|Ghosts]]
+[[Rules/Races/Vampire\|Vampire]]
+[[Creatures/Hostile/Trolls\|Trolls]]
 
 **Livestock**
 [[Creatures/Friendly/Silvermanes\|Silvermanes]]
