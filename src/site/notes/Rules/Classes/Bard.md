@@ -3,7 +3,7 @@
 ---
 
 #Holders
-Subclasses: [[Rules/Classes/Sub Classes/College of Creation\|College of Creation]], [[Rules/Classes/Sub Classes/College of Eloquence\|College of Eloquence]], [[Rules/Classes/Sub Classes/College of Lore\|College of Lore]], [[Rules/Classes/Sub Classes/College of Valor\|College of Valor]]
+Subclasses: [[Rules/Classes/Sub Classes/College of Creation\|College of Creation]], [[Rules/Classes/Sub Classes/College of Eloquence\|College of Eloquence]], [[Rules/Classes/Sub Classes/College of Lore\|College of Lore]], [[Rules/Classes/Sub Classes/College of Valor\|College of Valor]], [[Rules/Classes/Sub Classes/College of Whispers\|College of Whispers]]
 ![Pasted image 20250202210252.png](/img/user/Images/Pasted%20image%2020250202210252.png)
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
