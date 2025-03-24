@@ -9,7 +9,7 @@ The Members of the party
 Where:[[]],
 When:[[]],
 Enemies:[[]],
-Allies:[[Players/Sven\|Sven]], [[Players/Nick\|Nick]], [[Players/Alenekh Ashir\|Alenekh Ashir]], [[Players/Ramie\|Ramie]], [[Players/Torrik 'Blue Tide'\|Torrik 'Blue Tide']],
+Allies:[[Players/Coda\|Coda]], [[Players/Lucian Veilblade\|Lucian Veilblade]], [[Players/Alenekh Ashir\|Alenekh Ashir]], [[Players/Ramie\|Ramie]], [[Players/Torrik 'Blue Tide'\|Torrik 'Blue Tide']],
 
 
 NOTES:
