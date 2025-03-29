@@ -12,44 +12,6 @@ Veyl’thir, the radiant capital of **Lunareth**, is a city bathed in eternal si
 
 ### **City Structure & Landmarks**
 
-#### **1. The Celestial Archive** 
-
-- A **grand temple-observatory**, the heart of Veyl’thir’s spiritual and arcane wisdom.
-- Its massive **silver dome** reflects the phases of Selna, glowing brightest when the moon is full.
-- Houses **ancient tomes**, celestial charts, and orreries that predict the fate of the world.
-- Mystics known as the **Oracles of the Veil** oversee the temple, interpreting prophecies and preserving divine knowledge.
-
-#### **2. The Veilspire Palace** 
-
-- Home to the **Moonborn Council**, an oligarchy of arcane nobles and mystic scholars.
-- An **impossibly tall tower**, enchanted to seem like it stretches into the heavens.
-- It is said that those who ascend to the highest chamber can hear **whispers from Selna herself**.
-- The **Moonveil Throne**, an ancient artifact carved from celestial stone, sits at its heart.
-
-#### **3. The Luminous Bazaar** 
-
-- A **floating market**, suspended by magic, where merchants sell enchanted artifacts, potions, and stardust-infused metals.
-- The streets are illuminated by hovering silver lanterns, which dim and brighten with Selna’s cycle.
-- Illusionists and moon-blessed artisans craft **living paintings, ephemeral jewelry, and shimmering silks that glow under moonlight**.
-
-#### **4. The Argentum Bridges** 
-
-- A series of **silver archways** that connect the city’s elevated districts.
-- Constructed from **lunarium**, a rare metal that absorbs moonlight and glows softly in the dark.
-- At night, they appear as **paths of floating light**, creating an illusion of walking through the sky.
-
-#### **5. The Starlit Gardens** 
-
-- A mystical sanctuary where **silver-leaved trees, luminous flowers, and glowing crystal ponds** create an ethereal landscape.
-- Many plants here only **bloom under Selna’s light**, used for alchemy, prophecy, and healing.
-- The **Moon Lotus**, a legendary flower that grants visions of the past and future, grows in hidden groves.
-
-#### **6. The Silent Ward** 
-
-- An ancient district where **those who seek divine communion** go to meditate and study.
-- It is said that voices are hushed here, and even sound itself is absorbed by the mystical air.
-- The **Veilbound Monks**, an enigmatic order, dwell here, practicing rituals that allow them to walk between the seen and unseen worlds.
-
 ---
 
 ### **Culture & Society**

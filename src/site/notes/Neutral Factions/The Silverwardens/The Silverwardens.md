@@ -29,7 +29,7 @@ Description:
 - **Despised by the Shadeborn Syndicate**, who see them as an **obstacle to their smuggling operations**.
 - The **Infernal Pact of Pyrelis** mocks them as “soft” for refusing more **mercenary-driven contracts**.
 
-Where:[[Locations/Regions within Ordan/Independent Land/The Beacon Hall\|The Beacon Hall]],
+Where:[[The Beacon Hall\|The Beacon Hall]],
 When:[[]],
 Enemies:[[]],
 Allies:[[]],
