@@ -13,7 +13,7 @@ Description:
 
 - **The Highwarden** – The guild’s **leader and commander**, responsible for approving high-profile quests and **settling disputes between adventurers**.
 - **The Shieldbearers** – Senior **veteran adventurers** who act as mentors and take on the guild’s most **urgent and dangerous missions**.
-- **The Pathseekers** – **Standard members** of the guild who accept jobs ranging from **monster hunting to artifact recovery**.
+- **The Pathseekers** – **Standard members** of the guild who accept jobs ranging from **monster hunting to artifact recovery** they have multiple ranks until being eligible to become shieldbearers.
 
 ### **Types of Quests & Work:**
 
@@ -29,7 +29,7 @@ Description:
 - **Despised by the Shadeborn Syndicate**, who see them as an **obstacle to their smuggling operations**.
 - The **Infernal Pact of Pyrelis** mocks them as “soft” for refusing more **mercenary-driven contracts**.
 
-Where:[[The Beacon Hall\|The Beacon Hall]],
+Where:[[]],
 When:[[]],
 Enemies:[[]],
 Allies:[[]],

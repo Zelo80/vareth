@@ -30,7 +30,7 @@ Description:
 - Some **Silverwardens consider them no better than war criminals**, leading to **occasional clashes between the two guilds**.
 - **The Infernal Pact of Pyrelis** often **recruits from their ranks**, respecting their willingness to **sacrifice everything for power and survival**.
 
-Where:[[The Last Oath Hall\|The Last Oath Hall]],
+Where:[[]],
 When:[[]],
 Enemies:[[]],
 Allies:[[]],

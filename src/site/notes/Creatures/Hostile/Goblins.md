@@ -4,7 +4,7 @@
 
 #creatures
 
-Description:![027b2b6b-7f69-4f3d-a4bf-5c86d711f5d4.webp](/img/user/Images/027b2b6b-7f69-4f3d-a4bf-5c86d711f5d4.webp)
+Description:![Pasted image 20250330100113.png](/img/user/Images/Pasted%20image%2020250330100113.png)
 Goblins are **filthy, wretched creatures**, known for **breeding faster than they can be hunted**. Unlike the orcs, they have no **honor or strength**, only **cunning, cruelty, and an endless hunger for more.**
 
 #### **Culture & Society**
