@@ -7,7 +7,7 @@
 [[Locations/Regions within Ordan/Continent of Ordan\|Continent of Ordan]],
 [[Locations/Regions within Iskaris/Continent of Iskaris\|Continent of Iskaris]],
 [[Locations/Regions within Xal'Zirith/Continent of Xal’Zirith\|Continent of Xal’Zirith]],
-[[Locations/Regions within Ordan/The Celestine Highlands\|The Celestine Highlands]],
+[[Locations/Regions within Ordan/Celestine HIghlands/The Celestine Highlands\|The Celestine Highlands]],
 [[Locations/Regions within Ordan/The Daggercoast\|The Daggercoast]],
 [[Locations/Regions within Ordan/The Emberwilds\|The Emberwilds]],
 [[Locations/Regions within Ordan/The Golden Steppe\|The Golden Steppe]],

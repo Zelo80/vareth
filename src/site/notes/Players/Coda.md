@@ -10,8 +10,10 @@ Played by Sven
 
 Class:[[Rules/Classes/Bard\|Bard]],
 SubClass:[[]],
+Level: 1
 Race:[[Rules/Races/Changeling\|Changeling]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
+Rank:
 Where:[[]],
 When:[[]],
 

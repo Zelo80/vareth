@@ -8,4 +8,4 @@ Description:
 - **Description:** A peaceful riverside village where wooden bridges span the slow-moving waters, and fishers craft delicate **moonlight-infused nets**.
 - **Economy:** Fishing, river trade, and herbal medicine.
 
-Where:[[Neutral Factions/Kingdom of Lunareth/Kingdom of Lunareth\|Kingdom of Lunareth]] [[Locations/Regions within Ordan/The Celestine Highlands\|The Celestine Highlands]]
+Where:[[Neutral Factions/Kingdom of Lunareth/Kingdom of Lunareth\|Kingdom of Lunareth]] [[Locations/Regions within Ordan/Celestine HIghlands/The Celestine Highlands\|The Celestine Highlands]]

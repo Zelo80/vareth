@@ -10,8 +10,10 @@ Played by Ghostie
 
 Class:[[Rules/Classes/Fighter\|Fighter]],
 SubClass:[[]],
+Level: 1
 Race:[[Rules/Races/Aasimar\|Aasimar]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
+Rank:
 Where:[[]],
 When:[[]],
 

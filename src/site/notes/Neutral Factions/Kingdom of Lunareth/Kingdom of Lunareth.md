@@ -19,7 +19,7 @@ Description:
     - Lunareth is in conflict with **zealots of Korris**, who believe the **Silver Moon’s age is over**, and **only chaos and war should reign**.
     - Some scholars fear that **Selna’s influence is waning**, and seek lost **moon relics** to restore its power.
 
-Where:[[Locations/Regions within Ordan/The Celestine Highlands\|The Celestine Highlands]], [[Locations/Regions within Ordan/The Golden Steppe\|The Golden Steppe]]
+Where:[[Locations/Regions within Ordan/Celestine HIghlands/The Celestine Highlands\|The Celestine Highlands]], [[Locations/Regions within Ordan/The Golden Steppe\|The Golden Steppe]]
 When:[[]],
 Enemies:[[]],
 Allies:[[]],

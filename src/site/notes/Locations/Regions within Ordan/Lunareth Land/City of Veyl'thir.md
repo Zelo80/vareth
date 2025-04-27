@@ -32,4 +32,4 @@ Veyl’thir, the radiant capital of **Lunareth**, is a city bathed in eternal si
 - **Relic Seekers:** Secret organizations **search for lost artifacts of Selna**, believing they can **restore** or **reshape** the world.
 
 When:[[]],
-Where:[[Neutral Factions/Kingdom of Lunareth/Kingdom of Lunareth\|Kingdom of Lunareth]], [[Locations/Regions within Ordan/The Celestine Highlands\|The Celestine Highlands]]
+Where:[[Neutral Factions/Kingdom of Lunareth/Kingdom of Lunareth\|Kingdom of Lunareth]], [[Locations/Regions within Ordan/Celestine HIghlands/The Celestine Highlands\|The Celestine Highlands]]
