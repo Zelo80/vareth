@@ -6,6 +6,8 @@
 
 **Table of Contents**
 
+[[Session Timeline.canvas|Session Timeline]]
+
 [[WebShit/Where you start\|Where you start]]
 [[Friendly Factions/The Party\|The Party]]
 

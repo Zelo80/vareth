@@ -5,6 +5,7 @@
 #player 
 Status: [[Rules/Living\|Living]]
 Description:
+![Pasted image 20250427130103.png](/img/user/Images/Pasted%20image%2020250427130103.png)
 
 Played by Vic
 
@@ -16,7 +17,5 @@ Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:
 Where:[[]],
 When:[[]],
-
-DM NOTES:
 
 [[Players/Decayne Mosswick DM Notes\|Decayne Mosswick DM Notes]]

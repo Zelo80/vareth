@@ -17,6 +17,4 @@ Rank:
 Where:[[]],
 When:[[]],
 
-DM NOTES:
-
 [[Players/Myxi Copperpatch DMS NOTES\|Myxi Copperpatch DMS NOTES]]
