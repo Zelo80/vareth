@@ -9,8 +9,8 @@ Description:
 Played by Sven
 
 Class:[[Rules/Classes/Bard\|Bard]],
-SubClass:[[]],
-Level: 1
+SubClass:[[Rules/Classes/Sub Classes/College of Whispers\|College of Whispers]],
+Level: 3
 Race:[[Rules/Races/Changeling\|Changeling]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:

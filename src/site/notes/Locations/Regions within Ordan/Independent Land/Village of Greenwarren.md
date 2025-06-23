@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/regions-within-ordan/independent-land/village-of-greenwarren/"}
 ---
 
-#SubLocation
+#MainLocation 
 Description:
 
 - **Description:** A **hidden settlement** nestled in **dense forests and fruit groves**, known for its **apples, pears, and exotic herbal brews**.

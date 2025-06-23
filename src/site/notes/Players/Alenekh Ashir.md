@@ -10,7 +10,7 @@ Played by Arachna
 
 Class:[[Rules/Classes/Warlock\|Warlock]],
 SubClass:[[Rules/Classes/Sub Classes/The Undead\|The Undead]],
-Level: 1
+Level: 3
 Race:[[Rules/Races/Warforged\|Warforged]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:

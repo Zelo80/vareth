@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/regions-within-ordan/lunareth-land/village-of-gildenspire/"}
 ---
 
-#SubLocation
+#MainLocation 
 Description:
 - **Location:** On the outskirts of the **Golden Steppe**, where rolling plains meet rocky foothills.
 - **Description:** A prosperous agricultural village known for its **golden fields of wheat and herds of hardy steppe cattle**.

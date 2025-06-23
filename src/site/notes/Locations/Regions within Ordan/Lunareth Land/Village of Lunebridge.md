@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/regions-within-ordan/lunareth-land/village-of-lunebridge/"}
 ---
 
-#SubLocation
+#MainLocation 
 Description:
 - **Location:** Along the **Moonveil River**, between Silvermere and the Celestial Highlands.
 - **Description:** A peaceful riverside village where wooden bridges span the slow-moving waters, and fishers craft delicate **moonlight-infused nets**.

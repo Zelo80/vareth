@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/regions-within-ordan/independent-land/village-of-emberstead/"}
 ---
 
-#SubLocation
+#MainLocation 
 Description:
 
 - **Description:** A **small farming and pottery village** built atop **natural hot springs**, known for its **terracotta craftsmanship and fire-resistant ceramics**.

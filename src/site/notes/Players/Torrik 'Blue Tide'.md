@@ -10,7 +10,7 @@ Played by Fezgig
 
 Class:[[Rules/Classes/Barbarian\|Barbarian]],
 SubClass:[[]],
-Level: 1
+Level: 3
 Race:[[Rules/Races/SubRaces/Water Genasi\|Water Genasi]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:

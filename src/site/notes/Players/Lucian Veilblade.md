@@ -11,7 +11,7 @@ Played by Nick
 
 Class:[[Rules/Classes/Rogue\|Rogue]],
 SubClass:[[]],
-Level: 1
+Level: 3
 Race:[[Rules/Races/Human\|Human]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:

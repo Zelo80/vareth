@@ -10,7 +10,7 @@ Played by Dzarek
 
 Class:[[Rules/Classes/Cleric\|Cleric]],
 SubClass:[[Rules/Classes/Sub Classes/Life Domain\|Life Domain]],
-Level: 1
+Level: 3
 Race:[[Rules/Races/Gnome\|Gnome]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:

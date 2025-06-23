@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rules/races/vampire/"}
 ---
 
-#Holders![Pasted image 20250316195131.png](/img/user/Images/Pasted%20image%2020250316195131.png)
+#creatures ![Pasted image 20250316195131.png](/img/user/Images/Pasted%20image%2020250316195131.png)
 ### **The Vampires of Ordan – The Cursed Bloodlines**
 
 #### **Overview**

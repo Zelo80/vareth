@@ -9,13 +9,14 @@ Creatures
 [[Creatures/Hostile/Hobgoblins\|Hobgoblins]]
 [[Creatures/Hostile/Gnolls\|Gnolls]]
 [[Creatures/Hostile/Kobalds\|Kobalds]]
-[[Creatures/Hostile/Nymphs\|Nymphs]]
+[[Creatures/Neutral/Nymphs\|Nymphs]]
 [[Creatures/Hostile/Zombies\|Zombies]]
 [[Creatures/Hostile/Skeletons\|Skeletons]]
 [[Creatures/Hostile/Ghouls\|Ghouls]]
 [[Creatures/Hostile/Ghosts\|Ghosts]]
 [[Rules/Races/Vampire\|Vampire]]
 [[Creatures/Hostile/Trolls\|Trolls]]
+[[Creatures/Hostile/Rune Bear\|Rune Bear]]
 
 **Livestock**
 [[Creatures/Friendly/Silvermanes\|Silvermanes]]
@@ -45,3 +46,8 @@ Creatures
 [[Creatures/Hostile/Gutterwings\|Gutterwings]]
 [[Creatures/Hostile/Bonepickers\|Bonepickers]]
 [[Creatures/Hostile/Ravenspikes\|Ravenspikes]]
+[[Creatures/Hostile/Rootblight Bloom\|Rootblight Bloom]]
+[[Creatures/Hostile/Sporehorn Creeper\|Sporehorn Creeper]]
+[[Creatures/Hostile/Frost Giant\|Frost Giant]],
+[[Creatures/Hostile/Frost Goliath\|Frost Goliath]],
+[[Creatures/Hostile/Frost Goliath Whelp\|Frost Goliath Whelp]]

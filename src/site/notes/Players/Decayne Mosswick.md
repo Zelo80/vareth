@@ -10,8 +10,8 @@ Description:
 Played by Vic
 
 Class:[[Rules/Classes/Druid\|Druid]],
-SubClass:[[]],
-Level: 1
+SubClass:[[Rules/Classes/Sub Classes/Circle of Spores\|Circle of Spores]],
+Level: 3
 Race:[[Rules/Races/Half-Elf\|Half-Elf]],
 Affiliation:[[Friendly Factions/The Party\|The Party]],
 Rank:

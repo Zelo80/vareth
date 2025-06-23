@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/regions-within-ordan/independent-land/village-of-willowshade/"}
 ---
 
-#SubLocation
+#MainLocation 
 Description:
 
 - **Description:** Built along **shallow rivers and misty wetlands**, Willowshade thrives through **rice farming, fishing, and rare swamp-root cultivation**.

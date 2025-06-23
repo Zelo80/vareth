@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/regions-within-ordan/independent-land/village-of-brighthollow/"}
 ---
 
-#SubLocation
+#MainLocation 
 Description:
 
 - **Description:** A prosperous **wheat and barley farming community**, known for its **golden fields, windmills, and annual harvest festivals**.
